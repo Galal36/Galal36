@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Galal Ali — Full Stack Developer
+# 👋 Hi, I'm Galal Ali — Back-End Developer
 
-I'm a detail-oriented full-stack developer with a strong back-end focus using **Django**, **Flask**, and **PostgreSQL**, and a passion for building robust and scalable applications. On the front-end, I enjoy crafting responsive UIs using **React** and **Tailwind CSS**. My experience spans real-world projects, open-source contributions, and teaching programming to others.
+I'm a detail-oriented **back-end developer** with solid experience building robust, secure, and scalable web applications using **Django**, **Flask**, and **PostgreSQL**. I specialize in API development, database design, and back-end architecture. 
+
+While my primary strength is in back-end systems, I’m also familiar with front-end tools like **React** and **Tailwind CSS**, which I use to integrate and test full product flows effectively.
 
 ---
 
@@ -17,31 +19,31 @@ I'm a detail-oriented full-stack developer with a strong back-end focus using **
 ## 📌 Highlighted Projects
 
 - 🧾 [**Crowdfunding Web App**](https://github.com/Galal36/donation-project)  
-  Full-stack donation platform with secure auth, PostgreSQL, Django REST APIs, and responsive React UI.
+  Backend-focused donation platform with secure authentication, Django REST APIs, PostgreSQL, and a responsive React UI.
 
 - 🎬 [**Movz - Dynamic Movie App**](https://github.com/Galal36/movz)  
-  Responsive movie app using React, Redux Toolkit, TMDb API, Firebase Auth, and bilingual support.
+  REST-integrated backend with Firebase Auth, multilingual support, and Redux-powered state management.
 
 - 🏥 [**Hospital Management System (Odoo Module)**](https://github.com/Galal36/hms)  
-  Custom Odoo module with real-time dashboards, role-based access, and secure patient management.
+  Custom-built backend logic for patient management, role-based access control, and dashboards in Odoo.
 
 - 🖥️ [**Relational DB Engine in Bash**](https://github.com/Galal36/bash-db-engine)  
-  CLI MySQL-style engine built with Bash scripts supporting CRUD, validation, and navigation menus.
+  A MySQL-style CLI database engine built in Bash with CRUD operations and input validation.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Galal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galal36&show_icons=true&theme=tokyonight)
+![Galal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galal36&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galal36&layout=compact&theme=tokyonight)
 
 ---
 
 ## 👨‍🏫 Experience
 
-- 🔧 Backend Developer at Repack Travel — Django + React full-stack booking system  
-- 🌐 Software Developer at Na7ou — WordPress site management & bug fixing  
-- 🧑‍🏫 Python Instructor — Taught Python, OOP, Pandas & Matplotlib to international learners  
+- 🔧 **Backend Developer at Repack Travel** — Django-based booking system integrated with a React frontend  
+- 🌐 **Software Developer at Na7ou** — WordPress site maintenance and debugging  
+- 🧑‍🏫 **Python Instructor** — Taught Python, OOP, Pandas & Matplotlib to international students
 
 ---
 
@@ -67,4 +69,4 @@ I'm a detail-oriented full-stack developer with a strong back-end focus using **
 
 ---
 
-> ⭐️ *Open to collaboration, freelance projects, and full-time opportunities! Feel free to reach out.*
+> ⭐️ *Open to collaboration, freelance projects, and back-end developer roles! Feel free to reach out.*
